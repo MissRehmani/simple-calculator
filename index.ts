@@ -23,4 +23,4 @@ if (answer.operator === "Addition") {
   console.log(answer.firstNumber / answer.secondNumber);
 } else {
   console.log("Please select valid operator");
-}
+}*/
